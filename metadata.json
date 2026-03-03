@@ -1,0 +1,5 @@
+{
+  "name": "Krishikarya",
+  "description": "Nepal's premium agricultural and grocery platform serving Kanchanpur with fresh local produce.",
+  "requestFramePermissions": ["geolocation"]
+}
